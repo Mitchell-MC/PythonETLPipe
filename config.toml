@@ -1,0 +1,10 @@
+[api]
+base_url = "https://www.themuse.com/api/public/jobs"
+
+[s3]
+bucket_name = "aws-logs-652130923191-ca-central-1"
+file_name = "job_data.csv"
+
+[logging]
+log_file = "project.log"
+

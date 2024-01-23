@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Environment secrets
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
